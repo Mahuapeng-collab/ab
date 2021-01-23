@@ -1,4 +1,2 @@
 aaaaaaaaaaa
-sss&bbb
-0
-
+Git is a free software.
